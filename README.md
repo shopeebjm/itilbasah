@@ -41,6 +41,9 @@ cd itilbasah
 ```
 python2 Style5.py
 ```
+```
+python2 run.py
+```
 
 # Social Media
 
