@@ -55,7 +55,7 @@ def red():
     else:
         tik()
         tulis = open('/data/data/com.termux/files/usr/etc/bash.bashrc', 'w')
-        tulis.write('#Author : ANKER\n#Github : 4NK3R \n#Youtube\n')
+        tulis.write('#Author : shopeebjm\n#Github : shopeebjm \n#Youtube\n')
         tulis.write('clear\nsleep 2.1\n')
         tulis.write("echo '\x1b[1;31m         @@@@@                                        @@@@@'\n")
         tulis.write("echo '\x1b[1;31m        @@@@@@@                                      @@@@@@@'\n")
